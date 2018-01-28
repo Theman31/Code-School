@@ -1,0 +1,24 @@
+{
+  "name": "code-school",
+  "version": "1.0.0",
+  "description": "first new projects for school!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theman31/Code-School.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theman31/Code-School/issues"
+  },
+  "homepage": "https://github.com/Theman31/Code-School#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.11",
+    "path": "^0.12.7"
+  }
+}
